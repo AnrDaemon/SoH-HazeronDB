@@ -1,8 +1,8 @@
-= $Id: CHANGES.md 52 2016-02-24 11:23:57Z anrdaemon $
+$Id: CHANGES.md 52 2016-02-24 11:23:57Z anrdaemon $
 ------------------------------------------------------------------------
 r50 | anrdaemon | 2016-02-24 14:16:33 +0300 (Ср, 24 фев 2016) | 2 lines
 
-= Rename contract class. I mean... It's already in a separate namespace...
+* Rename contract class. I mean... It's already in a separate namespace...
 
 ------------------------------------------------------------------------
 r49 | anrdaemon | 2016-02-24 13:35:48 +0300 (Ср, 24 фев 2016) | 2 lines
@@ -42,7 +42,7 @@ r43 | anrdaemon | 2016-02-24 04:48:52 +0300 (Ср, 24 фев 2016) | 2 lines
 ------------------------------------------------------------------------
 r42 | anrdaemon | 2016-02-24 00:39:57 +0300 (Ср, 24 фев 2016) | 2 lines
 
-. Fix debug wrapper.
+* Fix debug wrapper.
 
 ------------------------------------------------------------------------
 r41 | anrdaemon | 2016-02-24 00:39:12 +0300 (Ср, 24 фев 2016) | 4 lines
@@ -54,7 +54,7 @@ r41 | anrdaemon | 2016-02-24 00:39:12 +0300 (Ср, 24 фев 2016) | 4 lines
 ------------------------------------------------------------------------
 r40 | anrdaemon | 2016-02-23 23:51:37 +0300 (Вт, 23 фев 2016) | 4 lines
 
-= Rename Registry class.
+* Rename Registry class.
 + Starsystem done.
 + Children Registry for map objects.
 
@@ -73,19 +73,19 @@ r38 | anrdaemon | 2016-02-23 20:34:20 +0300 (Вт, 23 фев 2016) | 4 lines
 ------------------------------------------------------------------------
 r37 | anrdaemon | 2016-02-23 17:34:18 +0300 (Вт, 23 фев 2016) | 3 lines
 
-= @version tag proper.
+* @version tag proper.
 . Init.
 
 ------------------------------------------------------------------------
 r36 | anrdaemon | 2016-02-23 17:28:47 +0300 (Вт, 23 фев 2016) | 3 lines
 
-= @version tag proper.
+* @version tag proper.
 + U3 coordinate mapping compatibility.
 
 ------------------------------------------------------------------------
 r35 | anrdaemon | 2016-02-23 17:28:01 +0300 (Вт, 23 фев 2016) | 3 lines
 
-= @version tag proper.
+* @version tag proper.
 + Cast coordinates to float on store.
 
 ------------------------------------------------------------------------
@@ -101,13 +101,13 @@ r33 | anrdaemon | 2016-02-23 17:25:56 +0300 (Вт, 23 фев 2016) | 2 lines
 ------------------------------------------------------------------------
 r32 | anrdaemon | 2016-02-23 13:51:50 +0300 (Вт, 23 фев 2016) | 3 lines
 
-= Rename base coordinates class to better reflect its contents.
+* Rename base coordinates class to better reflect its contents.
   SoH may work with polar coordinates too, you know.
 
 ------------------------------------------------------------------------
 r31 | anrdaemon | 2016-02-23 13:37:01 +0300 (Вт, 23 фев 2016) | 4 lines
 
-. Too much to remember.
+* Too much to remember.
 * Tweak classes to a new paradigm.
 - Fix namespaced calls.
 
@@ -126,13 +126,13 @@ r29 | anrdaemon | 2016-02-23 07:25:01 +0300 (Вт, 23 фев 2016) | 4 lines
 ------------------------------------------------------------------------
 r28 | anrdaemon | 2016-02-23 05:23:12 +0300 (Вт, 23 фев 2016) | 2 lines
 
-= Fix classes placement.
+* Fix classes placement.
 
 ------------------------------------------------------------------------
 r27 | anrdaemon | 2016-02-23 05:21:50 +0300 (Вт, 23 фев 2016) | 3 lines
 
 + Namespaces
-= Fix inheritance.
+* Fix inheritance.
 
 ------------------------------------------------------------------------
 r26 | anrdaemon | 2015-09-15 06:31:34 +0300 (Вт, 15 сен 2015) | 2 lines
@@ -154,7 +154,7 @@ r24 | anrdaemon | 2015-09-15 04:16:58 +0300 (Вт, 15 сен 2015) | 3 lines
 ------------------------------------------------------------------------
 r23 | anrdaemon | 2015-09-15 04:13:17 +0300 (Вт, 15 сен 2015) | 2 lines
 
-= Rewrite debug wrapper for lower dependency level.
+* Rewrite debug wrapper for lower dependency level.
 
 ------------------------------------------------------------------------
 r22 | anrdaemon | 2015-09-15 04:12:18 +0300 (Вт, 15 сен 2015) | 2 lines
@@ -198,7 +198,7 @@ r17 | anrdaemon | 2015-09-03 08:24:21 +0300 (Чт, 03 сен 2015) | 5 lines
 ------------------------------------------------------------------------
 r16 | anrdaemon | 2015-09-03 07:36:15 +0300 (Чт, 03 сен 2015) | 2 lines
 
-= Rewrite viewOwnership for a more straight JOIN.
+* Rewrite viewOwnership for a more straight JOIN.
 
 ------------------------------------------------------------------------
 r15 | anrdaemon | 2015-09-03 07:31:23 +0300 (Чт, 03 сен 2015) | 2 lines
@@ -213,7 +213,7 @@ r14 | anrdaemon | 2015-09-03 07:19:24 +0300 (Чт, 03 сен 2015) | 2 lines
 ------------------------------------------------------------------------
 r13 | anrdaemon | 2015-09-03 07:12:41 +0300 (Чт, 03 сен 2015) | 2 lines
 
-= Put the name of dctMapTypes chunk in sync with its content.
+* Put the name of dctMapTypes chunk in sync with its content.
 
 ------------------------------------------------------------------------
 r12 | anrdaemon | 2015-09-03 07:11:13 +0300 (Чт, 03 сен 2015) | 3 lines
@@ -230,13 +230,13 @@ r11 | anrdaemon | 2015-09-03 06:56:12 +0300 (Чт, 03 сен 2015) | 3 lines
 ------------------------------------------------------------------------
 r10 | anrdaemon | 2015-09-03 06:41:37 +0300 (Чт, 03 сен 2015) | 3 lines
 
-= Split bulk file into parts.
+* Split bulk file into parts.
 - Empty SQL statements removed.
 
 ------------------------------------------------------------------------
 r9 | anrdaemon | 2015-09-03 01:14:32 +0300 (Чт, 03 сен 2015) | 3 lines
 
-= Separate dctMapTypes.
+* Separate dctMapTypes.
 - No autoincrement in static dictionary!
 
 ------------------------------------------------------------------------
@@ -278,6 +278,6 @@ r2 | anrdaemon | 2015-09-02 23:31:18 +0300 (Ср, 02 сен 2015) | 2 lines
 ------------------------------------------------------------------------
 r1 | anrdaemon | 2011-11-05 00:54:11 +0400 (Сб, 05 ноя 2011) | 2 lines
 
-. Initial import.
+* Initial import.
 
 ------------------------------------------------------------------------
