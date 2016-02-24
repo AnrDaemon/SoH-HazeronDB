@@ -1,0 +1,11 @@
+dctMapTypes.sql
+dctGalaxies.sql
+dctResources.sql
+dctEmpires.sql
+mapUniverse.sql
+mapSystems.sql
+mapWormholes.sql
+mapResources.sql
+lnkOwned.sql
+viewResources.sql
+viewOwnership.sql
