@@ -1,0 +1,14 @@
+{
+    "name": "anrdaemon/hazeron-db",
+    "description": "Shores of Hazeron relevant database SQL schema and base PHP(5.3.6+) classes",
+    "license": "WTFPL",
+    "require": {
+        "php": "^5.3.6",
+        "anrdaemon/library": "^0.* || ^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "AnrDaemon\\Hazeron\\": "core/Hazeron/"
+        }
+    }
+}

@@ -1,13 +1,13 @@
 <?php
 /** Map parser class
 *
-* @version $Id: XmlMapParser.php 48 2016-02-24 01:54:59Z anrdaemon $
+* @version $Id: XmlMapParser.php 53 2016-02-26 08:24:16Z anrdaemon $
 */
 
 namespace AnrDaemon\Hazeron;
 use AnrDaemon\Interfaces\XmlParser as Features;
 
-class XmlMapParser extends \AnrDaemon\Wrapper\XmlParser
+class XmlMapParser extends \AnrDaemon\Wrappers\XmlParser
   implements Features\IXmlBasicParser
 {
   public $universe;
