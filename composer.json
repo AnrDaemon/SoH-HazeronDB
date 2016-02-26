@@ -4,7 +4,7 @@
     "license": "WTFPL",
     "require": {
         "php": "^5.3.6",
-        "anrdaemon/library": "^0.* || ^1.0"
+        "anrdaemon/library": "^0.1 || ^1.0"
     },
     "autoload": {
         "psr-4": {
